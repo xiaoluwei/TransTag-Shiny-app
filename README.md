@@ -1,4 +1,4 @@
-# TransTag
+# TransTag-Shiny-app
 
 This repository contains scripts for the alignment-free Shiny app analysis described in: 
 
